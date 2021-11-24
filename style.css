@@ -1,0 +1,9 @@
+body {
+    background-image: url("bg.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    background-color: red;
+}
